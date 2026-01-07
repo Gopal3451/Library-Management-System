@@ -52,4 +52,4 @@ This project allows secure admin access, book management, student records, and b
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Library-Management-System.git
+   git clone https://github.com/Gopal3451/Library-Management-System.git
